@@ -4,8 +4,8 @@
 
 <img align="right" alt="GIF" width="400" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/Profile.gif">
 
-<p align="left"> <a href="https://twitter.com/muzaffar8394" target="blank"><img src="https://img.shields.io/twitter/follow/muzaffar8394?logo=twitter&style=for-the-badge" alt="muzaffar8394" /></a> </p>
-<p align="left"><img src="https://img.shields.io/badge/Muzaffar%20Khan-Official%20Github-green" alt="muzaffar-khan" /> </p>
+<p align="left"> <a href="https://twitter.com/muzaffar8394" target="blank"><img src="https://img.shields.io/twitter/follow/muzaffar8394?logo=twitter&style=for-the-badge" alt="muzaffar8394" /></a></p>
+<p align="left"><a href="https://github.com/muzaffar-khan" target="blank"><img src="https://img.shields.io/badge/Muzaffar%20Khan-Official%20Github-green" alt="muzaffar-khan" /> </a></p>
 
 ## About Me 👨🏻‍💻 &nbsp;
 - 🌱 I’m currently learning **Django and Flask Framework**
@@ -51,16 +51,14 @@
 <a href="https://activity-graph.herokuapp.com/graph?username=muzaffar-khan"><img alt="Muzaffar Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muzaffar-khan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-## Views and Followers ❤ &nbsp;
+## Visitors ❤ &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muzaffar-khan.muzaffar-khan)
 
-<h3 align="left">Random :</h3>
+## Random
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-<p align="center">
-    <h3 align="center"> Show some ❤️ by starring some of the repositories!!!</h3>
- </p>
-
+## 
+<p align="center"><h3 align="center"> Show some ❤️ by starring some of the repositories!!!</h3></p>
 <img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/footer.png" />
 
 

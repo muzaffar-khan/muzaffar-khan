@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Muzaffar Khan</h1>
-<h3 align="left"></h3>
+<h4 align="left">Currently pursuing my Second year of Bachelor of Engineering in Computer Engineering. I'm a keen learner who is passionate about developing Android & Web applications, creating technology to elevate people, and building community.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzaffar-khan&label=Profile%20views&color=0e75b6&style=flat" alt="muzaffar-khan" /> </p>
 <img align="right" alt="GIF" width="400" src="Profile.gif">

@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzaffar-khan&label=Profile%20views&color=0e75b6&style=flat" alt="muzaffar-khan" /> </p>
 <img align="right" alt="GIF" width="400" src="Profile.gif">
+[![muzaffar-khan Official GitHub](https://img.shields.io/badge/muzaffar-khan-success)]
 
 <p align="left"> <a href="https://twitter.com/muzaffar8394" target="blank"><img src="https://img.shields.io/twitter/follow/muzaffar8394?logo=twitter&style=for-the-badge" alt="muzaffar8394" /></a> </p>
 

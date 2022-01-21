@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/muzaffar-khan/muzaffar-khan/blob/main/cover.png)
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muzaffar Khan</h1>
 <h4 align="left">Currently pursuing my Second year of Bachelor of Engineering in Computer Engineering. I'm a keen learner who is passionate about developing Android & Web applications, creating technology to elevate people, and building community.</h4>
 

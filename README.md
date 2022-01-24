@@ -50,6 +50,7 @@
       :Github Profile Stats:
     </code>
 </h1>
+
 <p align="center">
   <a href="https://github.com/muzaffar-khan">
     <img height="150" width="175" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/left.png">
@@ -57,7 +58,7 @@
       <img
         align="center"
         width="396" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=muzaffar-khan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+        src="https://github-readme-streak-stats.herokuapp.com?user=muzaffar-khan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FFFFFF"
         alt="muzaffar-khan"
       />
     </a>

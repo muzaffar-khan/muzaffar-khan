@@ -14,15 +14,14 @@
 
 - ⚡ Fun fact **I think I am funny XD :)**
 
-<h2>
-  Connect With Me <a target="_blank">
-  <img src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
-  </a>
+<h2>Connect With Me <a target="_blank">
+  <img src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/Handshake.gif" height="32px" style="max-width:100%;"></a>
 </h2>
 <p align="left">
 <a href="https://twitter.com/muzaffar8394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzaffar8394" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muzaffar8394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzaffar8394" height="30" width="40" /></a>
 <a href="https://instagram.com/themuzaffarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themuzaffarkhan" height="30" width="40" /></a>
+<a href="https://fb.com/themuzaffarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themuzaffarkhan" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools 🛠 &nbsp;

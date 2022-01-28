@@ -66,6 +66,7 @@
   </a>
 </p>
 
+---
 <details open="">
     <summary><strong>My Github Stats 📈 </strong></summary>
     <br>

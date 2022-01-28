@@ -78,6 +78,27 @@
 ---
 <a href="https://activity-graph.herokuapp.com/graph?username=muzaffar-khan"><img alt="Muzaffar Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muzaffar-khan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+---
+<details open="">
+    <summary><strong>My Pinned Repositories 📌 </strong></summary>
+<br>
+<a href="https://github.com/muzaffar-khan/AuctionSystem">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=AuctionSystem&theme=dark&hide_border=true&bg_color=0D1117" />
+</a>
+ <a href="https://github.com/muzaffar-khan/Todo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Todo&theme=dark&hide_border=true&bg_color=0D1117" />
+</a>
+  <br>
+  <br>
+<a href="https://github.com/muzaffar-khan/Weather">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Weather&theme=dark&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/muzaffar-khan/Todo-List">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Todo-List&theme=dark&hide_border=true&bg_color=0D1117" />
+</a>
+
+</details>
+<br />
 
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muzaffar-khan.muzaffar-khan)

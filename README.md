@@ -89,7 +89,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Todo&theme=dark&hide_border=true&bg_color=0D1117" />
 </a>
   <br>
-  <br>
 <a href="https://github.com/muzaffar-khan/Weather">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Weather&theme=dark&hide_border=true&bg_color=0D1117" />
 </a>

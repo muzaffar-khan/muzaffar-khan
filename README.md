@@ -83,20 +83,19 @@
 <details open="">
     <summary><strong>My Pinned Repositories 📌 </strong></summary>
 <br>
+<a href="https://github.com/muzaffar-khan/Portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Portfolio&theme=dark&hide_border=true&bg_color=0D1117" />
+</a>
 <a href="https://github.com/muzaffar-khan/AuctionSystem">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=AuctionSystem&theme=dark&hide_border=true&bg_color=0D1117" />
 </a>
- <a href="https://github.com/muzaffar-khan/Todo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Todo&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
+
   <br>
 <a href="https://github.com/muzaffar-khan/Weather">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Weather&theme=dark&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/muzaffar-khan/Todo-List">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Todo-List&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
-
+ <a href="https://github.com/muzaffar-khan/Todo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Todo&theme=dark&hide_border=true&bg_color=0D1117" />
 </details>
 <br />
 

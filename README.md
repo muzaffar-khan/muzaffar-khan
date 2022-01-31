@@ -2,7 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muzaffar Khan</h1>
 <h4 align="left">Currently pursuing my Second year of Bachelor of Engineering in Computer Engineering. I'm a keen learner who is passionate about developing Android & Web applications, creating technology to elevate people, and building community.</h4>
 
-<p align="left"><a href="https://github.com/muzaffar-khan" target="blank"><img src="https://img.shields.io/badge/Muzaffar%20Khan-Official%20Github-green" alt="muzaffar-khan" /> </a></p>
+<p align="left"><a href="https://muzaffar-khan.github.io/Portfolio/" target="blank"><img src="https://img.shields.io/badge/Muzaffar-Khan-orange" alt="muzaffar-khan" /> </a>
+<a href="https://github.com/muzaffar-khan" target="blank"><img src="https://img.shields.io/badge/Muzaffar%20Khan-Official%20Github-green" alt="muzaffar-khan" /> </a></p>
 <p align="left"> <a href="https://twitter.com/muzaffar8394" target="blank"><img src="https://img.shields.io/twitter/follow/muzaffar8394?logo=twitter&style=for-the-badge" alt="muzaffar8394" /></a></p>
 
 <img align="right" alt="GIF" width="400" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/Profile.gif">

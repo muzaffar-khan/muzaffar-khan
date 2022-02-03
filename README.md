@@ -20,6 +20,7 @@
 <h2>Connect With Me <a target="_blank">
   <img src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/Handshake.gif" height="32px" style="max-width:100%;"></a>
 </h2>
+
 <p align="left">
 <a href="https://twitter.com/muzaffar8394" target="blank"><img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/twitter.svg" alt="muzaffar8394" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muzaffar8394" target="blank"><img align="center" src="https://github.com/muzaffar-khan/muzaffar-khan/blob/main/linkedin.svg" alt="muzaffar8394" height="30" width="40" /></a>

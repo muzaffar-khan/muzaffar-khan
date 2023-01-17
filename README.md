@@ -71,8 +71,8 @@
   </a>
 </p>
 
----
-<details open="">
+<!-- --- -->
+<!-- <details open="">
     <summary><strong>My Github Stats 📈 </strong></summary>
     <br>
 <p>&nbsp;<a href="https://github.com/muzaffar-khan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muzaffar-khan&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" alt="muzaffar-khan" /></a></p>
@@ -103,7 +103,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=muzaffar-khan&repo=Todo&theme=dark&hide_border=true&bg_color=0D1117" />
 </details>
 <br />
-
+ -->
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muzaffar-khan.muzaffar-khan)
 

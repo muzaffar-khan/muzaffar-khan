@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/muzaffar-khan/muzaffar-khan/blob/main/cover.png)
+<!-- ![MasterHead](https://github.com/muzaffar-khan/muzaffar-khan/blob/main/cover.png) -->
 
 ---
 <h1 align="left">Hi👋, I'm Muzaffar Khan</h1>
